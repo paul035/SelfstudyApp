@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Selfstudy</string>
+
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+
+    <string-array name="drawer_list">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+    </string-array>
+
+    <string name="res_string1">Your free trial expired on <font color='#00BFFF'>29 Jan 2019</font>\n please upgrade now to get full access.</string>
+    <string name="home">HOME</string>
+    <string name="test">TEST</string>
+    <string name="analysis">ANALYSIS</string>
+    <string name="doubts">DOUBTS</string>
+    <string name="profile">PROFILE</string>
+</resources>

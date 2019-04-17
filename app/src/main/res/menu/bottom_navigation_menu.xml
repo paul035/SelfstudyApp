@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/ic_test"
+        android:icon="@drawable/ic_test"
+        android:title="@string/test" />
+
+    <item
+        android:id="@+id/ic_analysis"
+        android:icon="@drawable/ic_analysis"
+        android:title="@string/analysis" />
+
+    <item
+        android:id="@+id/ic_doubt"
+        android:icon="@drawable/ic_doubt"
+        android:title="@string/doubts" />
+
+    <item
+        android:id="@+id/ic_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile" />
+
+</menu>
